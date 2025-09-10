@@ -1,0 +1,1 @@
+# esquema_oficina_mecanica
